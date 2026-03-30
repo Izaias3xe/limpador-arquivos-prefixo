@@ -80,7 +80,7 @@ python3 script.py
 Dentro do código existe uma variável chamada:
 
 ```python
-pasta = "/home/izaias"
+pasta = "/SUA/PASTA/AQUI"
 ```
 
 Essa variável define **qual pasta o script irá analisar**.
