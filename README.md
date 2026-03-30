@@ -132,7 +132,7 @@ antes de executar a remoção.
 
 # 👨‍💻 Autor
 
-**Izaias**
+**Izaias Gabriel©**
 
 Projeto desenvolvido para estudo de:
 
